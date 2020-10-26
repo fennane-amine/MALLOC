@@ -1,0 +1,29 @@
+============================================================================
+                                     README
+============================================================================
+
+
+
+================================= GENERAL INFO =============================
+
+
+  Project: Malloc
+  Date: 30-05-17
+  Epita 2021 - ING 1
+
+
+===================================== GOAL =================================
+
+
+malloc(3), free(3), calloc(3) and realloc(3)
+
+We are supposed to follow the behavior of each function as described 
+in their man page.
+
+
+===================================== USAGE ================================
+
+
+To compile the project: 'make or make all'
+To clean the project: 'make clean'
+To launch the test suite: 'make check'
